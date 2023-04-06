@@ -12,4 +12,4 @@ Automated testing (using cloud platform) of Group 5's GSCT Recipe Generator Appl
 
 
 ## Authors:
-### WBS Group 5 (GSCT): u2226162, u2240687, u2127515, u2293591, u2220924, u2217880, u2283892
+##### WBS Group 5 (GSCT): u2226162, u2240687, u2127515, u2293591, u2220924, u2217880, u2283892
